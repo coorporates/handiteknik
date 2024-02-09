@@ -54,6 +54,10 @@ body {
   border-bottom-color: #fff;
 }
 
+.layanan h4 {
+  color: greenyellow;
+}
+
 .deskripsi {
   color: gold;
   font-weight: 500;
